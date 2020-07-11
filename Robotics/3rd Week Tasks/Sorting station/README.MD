@@ -17,3 +17,4 @@ Actuators:
 ## Simulation:
 
 ![Image of Simulation](https://github.com/HassanAlKathiri/SmartMethods/blob/master/Robotics/3rd%20Week%20Tasks/Sorting%20station/image.PNG)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p3NLJnwHYnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
