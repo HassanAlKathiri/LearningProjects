@@ -1,6 +1,8 @@
 # Sorting Station by Height
 
-Client asked to design a system that could sort the cardboards based on its size.( there are three different sizes)
+• Sorting of cardboard boxes according to height for Industrial Control System consists of conveyor belts, pivot arms and sensors
+• The automation system is programmed using Siemens PLC
+• Factory I/O software is used to construct a general model for sorting of the boxes
 
 ## System's Requirements
 
